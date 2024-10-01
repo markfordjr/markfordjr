@@ -22,5 +22,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Marquzes Ford | LinkedIn" width="22px" src="https://itcnet.gr/wp-content/uploads/2020/09/Linkedin-logo-on-transparent-Background-PNG-.png" />][linkedin]
+[<img align="left" alt="Marquzes Ford | LinkedIn" width="22px" src="http://freelogopng.com/images/all_img/1657906169gmail-logo-png.png" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/marquzesfordjr/
+[gmail]: http://freelogopng.com/images/all_img/1657906169gmail-logo-png.png
