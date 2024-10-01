@@ -1,5 +1,11 @@
 <h1>Hi, I'm Marquzes! <br/><a href="https://github.com/markfordjr">Programmer</a>, <a href="https://www.linkedin.com/in/marquzesfordjr/">Cybersecurity Student</a></h1>
 
+<h2>🖥️ Cybersecurity Projects:</h2>
+<b></b>
+  
+  - [Secure Drop](https://github.com/markfordjr/Secure-Drop)
+  - [Pretty Good Privacy Scheme (File Encryption)](https://github.com/markfordjr/Pretty-Good-Privacy-Scheme)
+  - [Keylogger](https://github.com/joshmadakor1/Key-Logger-With-Email)
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>C</b>
@@ -7,12 +13,7 @@
   - [Number Filter](https://github.com/markfordjr/Number-Filter)
   - [Ferry Loading](https://github.com/markfordjr/Ferry-Loading)
 - <b>C++</b>
-  - [Keylogger](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Pretty Good Privacy Scheme (File Encryption)](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  - [Secure Drop](https://github.com/markfordjr/Secure-Drop)
- 
-<h2>🖥️ Cybersecurity Projects:</h2>
+  - [Keylogger](https://github.com/markfordjr/Keyboard-Logger)
 
 <h2>📄 Certifications:</h2>
 
