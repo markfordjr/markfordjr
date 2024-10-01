@@ -5,7 +5,7 @@
   - [Ethical Hacking via Armitage](https://github.com/markfordjr/Ethical-Hacking-via-Armitage)
   - [Secure Drop](https://github.com/markfordjr/Secure-Drop)
   - [File Encryption](https://github.com/markfordjr/Pretty-Good-Privacy-Scheme)
-  - [Keylogger Application](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Keylogger Application](https://github.com/markfordjr/Keyboard-Logger)
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>C</b>
@@ -13,7 +13,7 @@
   - [Number Filter](https://github.com/markfordjr/Number-Filter)
   - [Ferry Loading](https://github.com/markfordjr/Ferry-Loading)
 - <b>C++</b>
-  - [Keylogger](https://github.com/markfordjr/Keyboard-Logger)
+  - 
 
 <h2>📄 Certifications:</h2>
 
