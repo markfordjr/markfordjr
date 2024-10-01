@@ -4,8 +4,8 @@
 
   - [Ethical Hacking via Armitage](https://github.com/markfordjr/Ethical-Hacking-via-Armitage)
   - [Secure Drop](https://github.com/markfordjr/Secure-Drop)
-  - [Pretty Good Privacy Scheme (File Encryption)](https://github.com/markfordjr/Pretty-Good-Privacy-Scheme)
-  - [Keylogger](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [File Encryption](https://github.com/markfordjr/Pretty-Good-Privacy-Scheme)
+  - [Keylogger Application](https://github.com/joshmadakor1/Key-Logger-With-Email)
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>C</b>
