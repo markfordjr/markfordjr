@@ -13,8 +13,8 @@
   - [Number Filter](https://github.com/markfordjr/Number-Filter)
   - [Ferry Loading](https://github.com/markfordjr/Ferry-Loading)
 - <b>C++</b>
-  - [PS1a](https://github.com/markfordjr/PS1a)
-  - [PS1b](https://github.com/markfordjr/PS1b)
+  - [PS1a: Linear Feedback Shift Register](https://github.com/markfordjr/PS1a)
+  - [PS1b: PhotoMagic](https://github.com/markfordjr/PS1b)
 
 <h2>📄 Certifications:</h2>
 
