@@ -1,8 +1,8 @@
 <h1>Hi, I'm Marquzes! <br/><a href="https://github.com/markfordjr">Programmer</a>, <a href="https://www.linkedin.com/in/marquzesfordjr/">Cybersecurity Student</a></h1>
 
 <h2>🖥️ Cybersecurity Projects:</h2>
-<b></b>
-  
+
+  - [Ethical Hacking via Armitage](https://github.com/markfordjr/Ethical-Hacking-via-Armitage)
   - [Secure Drop](https://github.com/markfordjr/Secure-Drop)
   - [Pretty Good Privacy Scheme (File Encryption)](https://github.com/markfordjr/Pretty-Good-Privacy-Scheme)
   - [Keylogger](https://github.com/joshmadakor1/Key-Logger-With-Email)
