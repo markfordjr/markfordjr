@@ -26,4 +26,4 @@
 [<img align="left" alt="Marquzes Ford | LinkedIn" width="22px" src="http://freelogopng.com/images/all_img/1657906169gmail-logo-png.png" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/marquzesfordjr/
-[gmail]: https://www.gmail.com/marquzesfordjr
+[gmail]: https://go.click.ly/fAdkG
