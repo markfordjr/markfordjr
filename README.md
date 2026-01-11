@@ -22,6 +22,7 @@
 
 - CompTIA Security+
 - CompTIA CySA+
+- Microsoft AZ900
 
 <h2> 🤳 Connect with me:</h2>
 
